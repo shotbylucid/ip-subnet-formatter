@@ -54,7 +54,3 @@ The script includes error handling for:
 - Missing input file
 - Invalid IP address formats
 - Malformed CIDR notation
-
-## License
-
-[Add appropriate license information here]
